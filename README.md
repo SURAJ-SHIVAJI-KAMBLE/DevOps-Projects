@@ -1,53 +1,5 @@
 # **Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced** ♐
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/13316" target="_blank" rel="noopener noreferrer">
-    <img src="https://trendshift.io/api/badge/repositories/13316" alt="NotHarshhaa/DevOps-Projects | Trendshift" style="width:350px;height:80px;max-width:100%;" />
-  </a>
-</p>
-
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Last Commit][commit-shield]][commit-url]
-[![Code of Conduct][coc-shield]][coc-url]
-[![Contributing][contrib-shield]][contrib-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[forks-shield]: https://img.shields.io/github/forks/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=github&logoColor=white&color=orange
-[forks-url]: https://github.com/NotHarshhaa/DevOps-Projects/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/NotHarshhaa/DevOps-Projects.svg?style=for-the-badge&logo=github&logoColor=white&color=brightgreen
-[stars-url]: https://github.com/NotHarshhaa/DevOps-Projects/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=github&logoColor=white&color=blue
-[issues-url]: https://github.com/NotHarshhaa/DevOps-Projects/issues
-
-[commit-shield]: https://img.shields.io/github/last-commit/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=git&logoColor=white&color=ff69b4
-[commit-url]: https://github.com/NotHarshhaa/DevOps-Projects/commits/master
-
-[coc-shield]: https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white
-[coc-url]: https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CODE_OF_CONDUCT.md
-
-[contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
-[contrib-url]: https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CONTRIBUTING.md
-
-![DevOps-Projects](https://imgur.com/tlMOmn0.png)
-
-## 👥 **Project Ownership**
-
-<a href="https://github.com/NotHarshhaa/DevOps-Projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NotHarshhaa/DevOps-Projects" />
-</a>
-
----
-
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NotHarshhaa/DevOps-Projects&type=Date)](https://www.star-history.com/#NotHarshhaa/DevOps-Projects&Date)
-
----
-
 _*Welcome to the ultimate resource for **learning DevOps through hands-on projects!** This repository is designed to cater to aspiring **DevOps engineers** of all skill levels, from beginners taking their first steps in the field to advanced users looking to deepen their knowledge and expertise.*_
 
 ![Welcome Badge](https://img.shields.io/badge/🚀%20Welcome-Learn%20DevOps%20Through%20Hands--On%20Projects-10b981?style=for-the-badge&logo=opsgenie&logoColor=white)
@@ -85,7 +37,6 @@ To improve readability and accessibility for users, this repository is also avai
 
 A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using **Next.js** and styled with **Tailwind CSS**, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!
 
-🔗 **Explore the site**: [projects.prodevopsguytech.com](https://projects.prodevopsguytech.com)
 
 ![Showcase Website](https://img.shields.io/badge/🌐%20Project%20Showcase-Next.js%20+%20Tailwind%20UI-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -103,7 +54,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 * **Industry-Relevant** projects covering EC2, VPC, RDS, Lambda, and more
 * **Community Driven** with active contributions and AWS expertise
 
-🔗 **Visit the AWS repository**: [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects)
+
 
 ![AWS Projects](https://img.shields.io/badge/☁️%20AWS%20Projects-Dedicated%20AWS%20Learning%20Hub-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -215,75 +166,4 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 
 ![Why Explore This Repository](https://img.shields.io/badge/📚%20Why%20Explore%20This%20Repository%3F-Unlock%20DevOps%20Mastery-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white)
 
----
 
-## **Code of Conduct**
-
-> [!CAUTION]
->
-> We are committed to fostering a welcoming and respectful environment for all contributors. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating in this community.
-
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CODE_OF_CONDUCT.md)
-
----
-
-## **Contribute and Collaborate**
-
-> [!TIP]
-> This repository thrives on community contributions and collaboration. Here’s how you can get involved:
->
-> - **Fork the Repository:** Create your own copy of the repository to work on.
-> - **Submit Pull Requests:** Contribute your projects or improvements to existing projects by submitting pull requests.
-> - **Engage with Others:** Participate in discussions, provide feedback on others’ projects, and collaborate to create better solutions.
-> - **Share Your Knowledge:** If you’ve developed a new project or learned something valuable, share it with the community. Your contributions can help others in their learning journey.
->
-> **We follow best practices for contribution.**
-
-[![Contributing](https://img.shields.io/badge/Contribute-Guide-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CONTRIBUTING.md)
-
----
-
-## 🌍 **Join the Community**
-
-> [!IMPORTANT]
-> Be a part of our active DevOps community:
-
-[![Join Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) 
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
-
----
-
-## ⭐ **Hit the Star!**
-
-**If you find this helpful, don’t forget to give this repository a star. Your support matters!** ⭐
-
-![Star Badge](https://img.shields.io/badge/⭐%20Support-Give%20a%20Star%20if%20You%20Like%20It-ffd700?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🛠️ **Author & Community**
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-![Author Badge](https://img.shields.io/badge/🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20Harshhaa-8a2be2?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-
----
-
-## 📢 **Stay Connected**
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
-
-![Stay Connected](https://img.shields.io/badge/📢%20Stay%20Connected-Join%20our%20DevOps%20Community-orange?style=for-the-badge&logo=telegram&logoColor=white)
-
----
-
-## 📜 **Copyright & License**
-
-![Copyright](https://img.shields.io/badge/©%202026%20H%20A%20R%20S%20H%20H%20A%20A-All%20Rights%20Reserved-red?style=for-the-badge&logo=copyright&logoColor=white) ![License](https://img.shields.io/badge/⚠️%20Unauthorized%20Reproduction-Prohibited-darkred?style=for-the-badge&logo=shield&logoColor=white)
